@@ -67,6 +67,3 @@ Nunca borra ni sobrescribe archivos, y deja un `registro_organizador.csv` con lo
 - **if / elif / else:** clasificación por extensión (`tipo_archivo`), orden por tipo (`prioridad`), elección de la fuente de la fecha (`fecha_interna`), confirmación del usuario.
 - **for:** recorrido de los archivos de la carpeta, cálculo de nombres, armado del ZIP.
 - **while:** validación de la carpeta y de la respuesta, búsqueda de un nombre libre para no sobrescribir, recorrido de los átomos de un video y de los bloques de un WAV.
-
----
-Andrés Felipe Martínez Chamucero · Especialización en Diseño y Creación con IA · Lenguajes de Programación Multiplataforma
