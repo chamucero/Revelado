@@ -1,0 +1,5 @@
+streamlit>=1.40
+exifread>=3.0
+pillow>=10.0
+pillow-heif>=0.18
+mutagen>=1.47
