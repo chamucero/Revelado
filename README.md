@@ -14,7 +14,7 @@ Aplicativo en Python que ordena el material de un cubrimiento por la fecha en qu
 
 Dentro de cada grupo los archivos quedan en el orden en que se tomaron, y la numeración es una sola secuencia por día.
 
-**App en línea:** _(pega aquí el enlace de Streamlit cuando la publiques)_
+**App en línea:** https://revelado.streamlit.app/
 
 ![Rollo revelado](docs/capturas/app_rollo.png)
 
