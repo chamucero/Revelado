@@ -55,12 +55,6 @@ Nunca borra ni sobrescribe archivos, y deja un `registro_organizador.csv` con lo
 └── docs/                  # informe del taller y capturas
 ```
 
-## Publicar en Streamlit Community Cloud
-
-1. Sube este repositorio a GitHub.
-2. Entra a [share.streamlit.io](https://share.streamlit.io), pulsa **Create app** y elige el repositorio.
-3. Rama `main`, archivo principal `app.py`, y pulsa **Deploy**.
-4. Copia el enlace que te da Streamlit y pégalo arriba en este README.
 
 ## Estructuras de control utilizadas
 
